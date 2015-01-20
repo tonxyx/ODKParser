@@ -1,0 +1,17 @@
+{
+  "name": "tonxyx/ODKParser",
+  "description": "Zend 2 parser for ODK XML form.",
+  "authors": [
+    {
+      "name": "Toni Butkovic (tonxyx)",
+      "email": "tonibutkovic23@gmail.com"
+    }
+  ],
+  "require": {
+      "php": ">=5.3.3",
+      "zendframework/zendframework": "2.3.3",
+      "zendframework/zend-developer-tools": "dev-master",
+      "doctrine/doctrine-orm-module": "0.8.*",
+      "doctrine/data-fixtures": "~1.0"
+  }
+}
